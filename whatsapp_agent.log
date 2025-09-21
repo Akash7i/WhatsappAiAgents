@@ -1,0 +1,39 @@
+2025-09-21 11:51:51,230 - INFO - 🚀 Starting WhatsApp AI Agent...
+2025-09-21 11:51:51,233 - INFO - 🔑 Testing OpenAI API connection...
+2025-09-21 11:51:52,004 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-21 11:51:52,009 - INFO - ✅ OpenAI API connection successful
+2025-09-21 11:51:52,010 - INFO - 🚀 Setting up Chrome...
+2025-09-21 11:51:54,723 - ERROR - ❌ Chrome setup failed: Message: session not created: probably user data directory is already in use, please specify a unique value for --user-data-dir argument, or don't use --user-data-dir
+Stacktrace:
+	GetHandleVerifier [0x0x7ff770b030f5+79493]
+	GetHandleVerifier [0x0x7ff770b03150+79584]
+	(No symbol) [0x0x7ff7708801ba]
+	(No symbol) [0x0x7ff7708bfc09]
+	(No symbol) [0x0x7ff7708b9f50]
+	(No symbol) [0x0x7ff77090e47f]
+	(No symbol) [0x0x7ff77090dc00]
+	(No symbol) [0x0x7ff7709004e3]
+	(No symbol) [0x0x7ff7708c8e92]
+	(No symbol) [0x0x7ff7708c9c63]
+	GetHandleVerifier [0x0x7ff770dc0dbd+2954061]
+	GetHandleVerifier [0x0x7ff770dbb02a+2930106]
+	GetHandleVerifier [0x0x7ff770ddb357+3061991]
+	GetHandleVerifier [0x0x7ff770b1d60e+187294]
+	GetHandleVerifier [0x0x7ff770b2557f+219919]
+	GetHandleVerifier [0x0x7ff770b0c294+116772]
+	GetHandleVerifier [0x0x7ff770b0c449+117209]
+	GetHandleVerifier [0x0x7ff770af2618+11176]
+	BaseThreadInitThunk [0x0x7ffb331fe8d7+23]
+	RtlUserThreadStart [0x0x7ffb340dc34c+44]
+
+2025-09-21 11:51:58,785 - INFO - 🧹 Cleaning up...
+2025-09-21 11:51:58,785 - INFO - ✅ Cleanup completed
+2025-09-21 11:51:58,786 - INFO - 👋 Program ended
+2025-09-21 11:52:04,661 - WARNING - ❌ No chat elements found
+2025-09-21 11:52:08,493 - INFO - 🛑 Stopping agent...
+2025-09-21 11:52:08,493 - INFO - 🧹 Cleaning up...
+2025-09-21 11:52:08,497 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)': /session/fe70104250ad105501f038841fde3138
+2025-09-21 11:52:12,596 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002951EE32650>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/fe70104250ad105501f038841fde3138
+2025-09-21 11:52:16,691 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002951EE42150>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/fe70104250ad105501f038841fde3138
+2025-09-21 11:52:24,824 - INFO - ✅ Cleanup completed
+2025-09-21 11:52:24,825 - INFO - 👋 Program ended

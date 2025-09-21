@@ -1,0 +1,128 @@
+2025-09-20 21:52:14 - WhatsAppAgent - ERROR - ❌ Failed to setup Chrome: Message: session not created: Chrome failed to start: crashed.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location C:\Users\shree\AppData\Local\Google\Chrome\Application\chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff795d230f5+79493]
+	GetHandleVerifier [0x0x7ff795d23150+79584]
+	(No symbol) [0x0x7ff795aa01ba]
+	(No symbol) [0x0x7ff795ae00b2]
+	(No symbol) [0x0x7ff795ad9f50]
+	(No symbol) [0x0x7ff795b2e47f]
+	(No symbol) [0x0x7ff795b2dc00]
+	(No symbol) [0x0x7ff795b204e3]
+	(No symbol) [0x0x7ff795ae8e92]
+	(No symbol) [0x0x7ff795ae9c63]
+	GetHandleVerifier [0x0x7ff795fe0dbd+2954061]
+	GetHandleVerifier [0x0x7ff795fdb02a+2930106]
+	GetHandleVerifier [0x0x7ff795ffb357+3061991]
+	GetHandleVerifier [0x0x7ff795d3d60e+187294]
+	GetHandleVerifier [0x0x7ff795d4557f+219919]
+	GetHandleVerifier [0x0x7ff795d2c294+116772]
+	GetHandleVerifier [0x0x7ff795d2c449+117209]
+	GetHandleVerifier [0x0x7ff795d12618+11176]
+	BaseThreadInitThunk [0x0x7ffb331fe8d7+23]
+	RtlUserThreadStart [0x0x7ffb340dc34c+44]
+
+2025-09-20 21:52:18 - WhatsAppAgent - ERROR - ❌ Failed to initialize agent
+2025-09-20 21:58:53 - WhatsAppAgent - ERROR - ❌ Failed to setup Chrome: Message: session not created: Chrome failed to start: crashed.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location C:\Users\shree\AppData\Local\Google\Chrome\Application\chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff795d230f5+79493]
+	GetHandleVerifier [0x0x7ff795d23150+79584]
+	(No symbol) [0x0x7ff795aa01ba]
+	(No symbol) [0x0x7ff795ae00b2]
+	(No symbol) [0x0x7ff795ad9f50]
+	(No symbol) [0x0x7ff795b2e47f]
+	(No symbol) [0x0x7ff795b2dc00]
+	(No symbol) [0x0x7ff795b204e3]
+	(No symbol) [0x0x7ff795ae8e92]
+	(No symbol) [0x0x7ff795ae9c63]
+	GetHandleVerifier [0x0x7ff795fe0dbd+2954061]
+	GetHandleVerifier [0x0x7ff795fdb02a+2930106]
+	GetHandleVerifier [0x0x7ff795ffb357+3061991]
+	GetHandleVerifier [0x0x7ff795d3d60e+187294]
+	GetHandleVerifier [0x0x7ff795d4557f+219919]
+	GetHandleVerifier [0x0x7ff795d2c294+116772]
+	GetHandleVerifier [0x0x7ff795d2c449+117209]
+	GetHandleVerifier [0x0x7ff795d12618+11176]
+	BaseThreadInitThunk [0x0x7ffb331fe8d7+23]
+	RtlUserThreadStart [0x0x7ffb340dc34c+44]
+
+2025-09-20 21:58:57 - WhatsAppAgent - ERROR - ❌ Failed to initialize agent
+2025-09-20 22:04:17 - WhatsAppAgent - ERROR - ❌ Failed to setup Chrome: Message: session not created: Chrome failed to start: crashed.
+  (chrome not reachable)
+  (The process started from chrome location C:\Users\shree\AppData\Local\Google\Chrome\Application\chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff795d230f5+79493]
+	GetHandleVerifier [0x0x7ff795d23150+79584]
+	(No symbol) [0x0x7ff795aa01ba]
+	(No symbol) [0x0x7ff795ae00b2]
+	(No symbol) [0x0x7ff795ad9f50]
+	(No symbol) [0x0x7ff795b2e47f]
+	(No symbol) [0x0x7ff795b2dc00]
+	(No symbol) [0x0x7ff795b204e3]
+	(No symbol) [0x0x7ff795ae8e92]
+	(No symbol) [0x0x7ff795ae9c63]
+	GetHandleVerifier [0x0x7ff795fe0dbd+2954061]
+	GetHandleVerifier [0x0x7ff795fdb02a+2930106]
+	GetHandleVerifier [0x0x7ff795ffb357+3061991]
+	GetHandleVerifier [0x0x7ff795d3d60e+187294]
+	GetHandleVerifier [0x0x7ff795d4557f+219919]
+	GetHandleVerifier [0x0x7ff795d2c294+116772]
+	GetHandleVerifier [0x0x7ff795d2c449+117209]
+	GetHandleVerifier [0x0x7ff795d12618+11176]
+	BaseThreadInitThunk [0x0x7ffb331fe8d7+23]
+	RtlUserThreadStart [0x0x7ffb340dc34c+44]
+
+2025-09-20 22:04:21 - WhatsAppAgent - ERROR - ❌ Failed to initialize agent
+2025-09-21 07:48:28 - WhatsAppAgent - ERROR - AI Error: cannot import name 'BaseTransport' from 'httpx' (C:\Users\shree\AppData\Roaming\Python\Python311\site-packages\httpx\__init__.py)
+2025-09-21 07:48:30 - WhatsAppAgent - ERROR - AI Error: cannot import name 'BaseTransport' from 'httpx' (C:\Users\shree\AppData\Roaming\Python\Python311\site-packages\httpx\__init__.py)
+2025-09-21 07:48:33 - WhatsAppAgent - ERROR - AI Error: cannot import name 'BaseTransport' from 'httpx' (C:\Users\shree\AppData\Roaming\Python\Python311\site-packages\httpx\__init__.py)
+2025-09-21 07:48:37 - WhatsAppAgent - ERROR - AI Error: cannot import name 'BaseTransport' from 'httpx' (C:\Users\shree\AppData\Roaming\Python\Python311\site-packages\httpx\__init__.py)
+2025-09-21 07:48:39 - WhatsAppAgent - ERROR - AI Error: cannot import name 'BaseTransport' from 'httpx' (C:\Users\shree\AppData\Roaming\Python\Python311\site-packages\httpx\__init__.py)
+2025-09-21 07:48:42 - WhatsAppAgent - ERROR - AI Error: cannot import name 'BaseTransport' from 'httpx' (C:\Users\shree\AppData\Roaming\Python\Python311\site-packages\httpx\__init__.py)
+2025-09-21 07:48:46 - WhatsAppAgent - ERROR - AI Error: cannot import name 'BaseTransport' from 'httpx' (C:\Users\shree\AppData\Roaming\Python\Python311\site-packages\httpx\__init__.py)
+2025-09-21 07:48:48 - WhatsAppAgent - ERROR - AI Error: cannot import name 'BaseTransport' from 'httpx' (C:\Users\shree\AppData\Roaming\Python\Python311\site-packages\httpx\__init__.py)
+2025-09-21 07:48:51 - WhatsAppAgent - ERROR - AI Error: cannot import name 'BaseTransport' from 'httpx' (C:\Users\shree\AppData\Roaming\Python\Python311\site-packages\httpx\__init__.py)
+2025-09-21 07:48:55 - WhatsAppAgent - ERROR - AI Error: cannot import name 'BaseTransport' from 'httpx' (C:\Users\shree\AppData\Roaming\Python\Python311\site-packages\httpx\__init__.py)
+2025-09-21 07:48:58 - WhatsAppAgent - ERROR - AI Error: cannot import name 'BaseTransport' from 'httpx' (C:\Users\shree\AppData\Roaming\Python\Python311\site-packages\httpx\__init__.py)
+2025-09-21 07:49:00 - WhatsAppAgent - ERROR - AI Error: cannot import name 'BaseTransport' from 'httpx' (C:\Users\shree\AppData\Roaming\Python\Python311\site-packages\httpx\__init__.py)
+2025-09-21 07:49:05 - WhatsAppAgent - ERROR - AI Error: cannot import name 'BaseTransport' from 'httpx' (C:\Users\shree\AppData\Roaming\Python\Python311\site-packages\httpx\__init__.py)
+2025-09-21 07:49:07 - WhatsAppAgent - ERROR - AI Error: cannot import name 'BaseTransport' from 'httpx' (C:\Users\shree\AppData\Roaming\Python\Python311\site-packages\httpx\__init__.py)
+2025-09-21 07:49:56 - WhatsAppAgent - ERROR - AI Error: cannot import name 'BaseTransport' from 'httpx' (C:\Users\shree\AppData\Roaming\Python\Python311\site-packages\httpx\__init__.py)
+2025-09-21 07:49:58 - WhatsAppAgent - ERROR - AI Error: cannot import name 'BaseTransport' from 'httpx' (C:\Users\shree\AppData\Roaming\Python\Python311\site-packages\httpx\__init__.py)
+2025-09-21 07:50:01 - WhatsAppAgent - ERROR - AI Error: cannot import name 'BaseTransport' from 'httpx' (C:\Users\shree\AppData\Roaming\Python\Python311\site-packages\httpx\__init__.py)
+2025-09-21 07:50:05 - WhatsAppAgent - ERROR - AI Error: cannot import name 'BaseTransport' from 'httpx' (C:\Users\shree\AppData\Roaming\Python\Python311\site-packages\httpx\__init__.py)
+2025-09-21 07:50:08 - WhatsAppAgent - ERROR - AI Error: cannot import name 'BaseTransport' from 'httpx' (C:\Users\shree\AppData\Roaming\Python\Python311\site-packages\httpx\__init__.py)
+2025-09-21 07:50:10 - WhatsAppAgent - ERROR - AI Error: cannot import name 'BaseTransport' from 'httpx' (C:\Users\shree\AppData\Roaming\Python\Python311\site-packages\httpx\__init__.py)
+2025-09-21 07:50:14 - WhatsAppAgent - ERROR - AI Error: cannot import name 'BaseTransport' from 'httpx' (C:\Users\shree\AppData\Roaming\Python\Python311\site-packages\httpx\__init__.py)
+2025-09-21 07:50:17 - WhatsAppAgent - ERROR - AI Error: cannot import name 'BaseTransport' from 'httpx' (C:\Users\shree\AppData\Roaming\Python\Python311\site-packages\httpx\__init__.py)
+2025-09-21 08:20:42 - WhatsAppAgent - ERROR - Failed to setup Chrome: Message: session not created: Chrome failed to start: crashed.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location C:\Users\shree\AppData\Local\Google\Chrome\Application\chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6a53a30f5+79493]
+	GetHandleVerifier [0x0x7ff6a53a3150+79584]
+	(No symbol) [0x0x7ff6a51201ba]
+	(No symbol) [0x0x7ff6a51600b2]
+	(No symbol) [0x0x7ff6a5159f50]
+	(No symbol) [0x0x7ff6a51ae47f]
+	(No symbol) [0x0x7ff6a51adc00]
+	(No symbol) [0x0x7ff6a51a04e3]
+	(No symbol) [0x0x7ff6a5168e92]
+	(No symbol) [0x0x7ff6a5169c63]
+	GetHandleVerifier [0x0x7ff6a5660dbd+2954061]
+	GetHandleVerifier [0x0x7ff6a565b02a+2930106]
+	GetHandleVerifier [0x0x7ff6a567b357+3061991]
+	GetHandleVerifier [0x0x7ff6a53bd60e+187294]
+	GetHandleVerifier [0x0x7ff6a53c557f+219919]
+	GetHandleVerifier [0x0x7ff6a53ac294+116772]
+	GetHandleVerifier [0x0x7ff6a53ac449+117209]
+	GetHandleVerifier [0x0x7ff6a5392618+11176]
+	BaseThreadInitThunk [0x0x7ffb331fe8d7+23]
+	RtlUserThreadStart [0x0x7ffb340dc34c+44]
+
+2025-09-21 08:20:46 - WhatsAppAgent - ERROR - Failed to initialize agent
+2025-09-21 08:26:55 - WhatsAppAgent - ERROR - Browser connection lost
+2025-09-21 08:30:22 - WhatsAppAgent - ERROR - Browser connection lost
